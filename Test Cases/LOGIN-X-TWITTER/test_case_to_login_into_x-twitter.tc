@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test_case_to_login_into_x-twitter</description>
+   <name>test_case_to_login_into_x-twitter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>696f8c3e-93ba-4c07-8f60-f50c2cd8936f</testCaseGuid>
+</TestCaseEntity>
