@@ -14,4 +14,14 @@
       <initValue>'Fiboo112358@@'</initValue>
       <name>PassWord</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'@Cristiano'</initValue>
+      <name>rolando</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'aditya_T2_WORK@outlook.com'</initValue>
+      <name>userid</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

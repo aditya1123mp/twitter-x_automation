@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_to_like_and_retweet_tweet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df73daa5-04d8-4c4a-883b-f9ac73d28825</testCaseGuid>
+</TestCaseEntity>

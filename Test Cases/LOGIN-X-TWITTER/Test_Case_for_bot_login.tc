@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test_Case_for_bot_login</description>
+   <name>Test_Case_for_bot_login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99394398-89b6-4b53-8cfa-2fe5e90dc4e9</testCaseGuid>
+</TestCaseEntity>
