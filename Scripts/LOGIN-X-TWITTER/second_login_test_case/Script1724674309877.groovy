@@ -54,4 +54,6 @@ WebUI.click(findTestObject('Object Repository/RETWEET/retweet_selection'))
 
 WebUI.click(findTestObject('Object Repository/RETWEET/retweet_confirmation'))
 
+WebUI.delay(2)
+
 WebUI.callTestCase(findTestCase('LOGOUT-X-TWITTER/test_case_to_logout'), [:], FailureHandling.STOP_ON_FAILURE)
